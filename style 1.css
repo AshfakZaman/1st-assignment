@@ -1,0 +1,35 @@
+body{font-family: 'Redressed', cursive; margin: 0%;}
+.hl{
+    color: orange;
+
+
+}
+
+
+.half-width{width: 40%; margin-left: 3%; padding-left: 3%; float: left;}
+.half-width img{width: 85%;}
+.hire-me{background-color:tomato;padding: 10px 10px; border-radius:8%;text-decoration: none; font-weight: 800;}
+
+
+.s3{float:right; width: 100%; margin-right: 0%;margin-left: 5%;margin-bottom: 1%;}
+.s3{
+    background-image: url("C:/Users/Ashfak Zaman/Desktop/Web Dev Learning/1st Assignment/resources/images/grey bg.jpg");
+    
+
+}
+
+.s3div{width: 23%; height: 50%; float: left; margin-left: 2%;padding: 4%;}
+.s3div img{width: 100%;}
+.s3-font-color{color: lightseagreen;}
+
+
+.s4{width: 100%;margin-left: 0; margin-right: 0; float: right; padding-top: 10%;}
+.s4{
+    background-image: url("C:/Users/Ashfak Zaman/Desktop/Web Dev Learning/1st Assignment/resources/shapes/work enquiry.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.we{color: whitesmoke; margin-left: 30%;margin-bottom: 12%; font-size:xx-large; font-weight: 700;}
+.ls{text-decoration: none;color: white; background-color: tomato;font-weight: 700;margin-left: 60%; margin-top: 40%;margin-bottom: 15%;}
